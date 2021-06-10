@@ -1,0 +1,32 @@
+item {
+    id: 1
+    name: 'red'
+}
+item {
+    id: 2
+    name: 'yellow'
+}
+item {
+    id: 3
+    name: 'green'
+}
+item {
+    id: 4
+    name: 'brown'
+}
+item {
+    id: 5
+    name: 'blue'
+}
+item {
+    id: 6
+    name: 'pink'
+}
+item {
+    id: 7
+    name: 'black'
+}
+item {
+    id: 8
+    name: 'white'
+}
