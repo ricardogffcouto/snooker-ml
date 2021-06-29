@@ -1,8 +1,7 @@
-
 <annotation>
 	<folder>balls</folder>
 	<filename>ball_716.jpg</filename>
-	<path>/home/ricardo/coding/snooker/training/images/ball_716.jpg</path>
+	<path>./workspace/training_demo/images/test/ball_716.xml</path>
 	<source>
 		<database>Unknown</database>
 	</source>
