@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>ball_2588.jpg</filename>
+	<path>./workspace/training_demo/images/test/ball_2588.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>19</width>
+		<height>20</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>0</ymin>
+			<xmax>19</xmax>
+			<ymax>20</ymax>
+		</bndbox>
+	</object>
+</annotation>

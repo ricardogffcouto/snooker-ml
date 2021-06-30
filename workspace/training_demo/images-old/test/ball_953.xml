@@ -1,0 +1,26 @@
+<annotation>
+	<folder>balls</folder>
+	<filename>ball_953.jpg</filename>
+	<path>./workspace/training_demo/images/test/ball_953.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>37</width>
+		<height>34</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>0</ymin>
+			<xmax>37</xmax>
+			<ymax>34</ymax>
+		</bndbox>
+	</object>
+</annotation>
